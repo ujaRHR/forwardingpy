@@ -1,1 +1,3 @@
-Amino.py
+json
+requests
+pyrogram
