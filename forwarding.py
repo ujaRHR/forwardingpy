@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 
-bot  = Client('userbot', api_hash="e454be121e26e7084623448be8e9eb39", api_id=10738602)
+bot  = Client('userbot', api_hash="api_hash", api_id="ID")
 
 chan_list = { # channel/group ID target      :       channel/group ID to forward
              -1001645356328 : -1001702155604,
